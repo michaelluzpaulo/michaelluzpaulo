@@ -8,7 +8,7 @@ Adoro desafios e estou sempre disposto a conversar.
 
 ---
 
-## 💬 Quer entrar em contato!
+## 💬 Quer saber mais ou entrar em contato!
 
 Email: michaelluzpaulo@gmail.com 
 
