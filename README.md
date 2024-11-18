@@ -1,10 +1,12 @@
 ## 👋 Olá
 
-Faça uma breve apresentação sobre você e a sua stack.
+Nesses anos já trabalhei em diversas áreas como programador, analista, gerente e em diversos tipos de projetos como portais, ecomerce, sistemas, mobile.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Ja trabalhei com varias tecnologias como PHP, Laravel, Javascript, css, React JS, React native, Node, Mysql, Postgrees, Oracle, entre outras.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+Adoro desafios e estou sempre disposto a conversar.
+
+💬 Para entrar em contato michaelluzpaulo@gmail.com
 
 ---
 
