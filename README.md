@@ -9,6 +9,10 @@ Adoro desafios e estou sempre disposto a conversar.
 💬 Para entrar em contato michaelluzpaulo@gmail.com
 
 ---
+
+## 💬 Como me achar
+Email: michaelluzpaulo@gmail.com
+Linkedin: https://www.linkedin.com/in/michaelluzpaulo/
 <!--
 ## 🚀 Minhas Skills
 
