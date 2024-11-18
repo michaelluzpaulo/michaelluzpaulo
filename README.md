@@ -11,7 +11,9 @@ Adoro desafios e estou sempre disposto a conversar.
 ---
 
 ## 💬 Como me achar
-Email: michaelluzpaulo@gmail.com
+
+Email: michaelluzpaulo@gmail.com 
+
 Linkedin: https://www.linkedin.com/in/michaelluzpaulo/
 <!--
 ## 🚀 Minhas Skills
