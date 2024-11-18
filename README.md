@@ -6,11 +6,9 @@ Nesses anos já trabalhei em diversas áreas como programador, analista, gerente
 
 Adoro desafios e estou sempre disposto a conversar.
 
-💬 Para entrar em contato michaelluzpaulo@gmail.com
-
 ---
 
-## 💬 Como me achar
+## 💬 Quer entrar em contato!
 
 Email: michaelluzpaulo@gmail.com 
 
