@@ -1,6 +1,6 @@
 ## 👋 Olá
 
-Nesses anos já trabalhei em diversas áreas como programador, analista, gerente e em diversos tipos de projetos como portais, ecomerce, sistemas, mobile.
+Nesses anos já trabalhei em diversas áreas como programador, analista e lider em diversos tipos de projetos como portais, ecomerce, sistemas, mobile.
 
 🔭 Ja trabalhei com varias tecnologias como PHP, Laravel, Javascript, css, React JS, React native, Node, Mysql, Postgrees, Oracle, entre outras.
 
