@@ -1,10 +1,15 @@
-## 👋 Olá
+## 👋 Olá :coffee:
 
-Nesses anos já trabalhei em diversas áreas como programador, analista e lider em diversos tipos de projetos como portais, ecomerce, sistemas, mobile.
+Ao longo dos anos, atuei em diversas áreas como desenvolvedor, analista e líder em vários tipos de projetos como portais, e-commerce, sistemas e mobile.
 
-🔭 Ja trabalhei com varias tecnologias como PHP, Laravel, Javascript, css, React JS, React native, Node, Mysql, Postgrees, Oracle, entre outras.
+Tendo atuado em diferentes áreas do setor de desenvolvimento de software e projetos multilíngue, minha experiência me dá uma visão abrangente de diferentes mercados e culturas tecnológicas.
 
-Adoro desafios e estou sempre disposto a conversar.
+Adoro desafios e estou sempre disposto a conversar. 
+
+Sou capaz de contribuir significativamente com equipes e entregar soluções complexas, buscando sempre alinhar as necessidades do negócio com os resultados e entregas das demandas.
+
+🔭 Tecnologias e afins: HTML, JS, CSS, PHP, Laravel, Codeigniter, Node.js, React.js, React native,  Mysql, PostgreSQL, Oracle, Git entre outras.
+
 
 ---
 
