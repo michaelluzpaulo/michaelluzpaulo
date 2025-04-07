@@ -1,12 +1,10 @@
 ## 👋 Olá :coffee:
 
-Ao longo dos anos, atuei em diversas áreas como desenvolvedor, analista e líder em vários tipos de projetos como portais, e-commerce, sistemas e mobile.
+Com uma jornada sólida no desenvolvimento de software, venho atuando como desenvolvedor, analista e líder técnico em projetos diversos — de e-commerces e portais a sistemas corporativos e aplicativos mobile.
 
-Tendo atuado em diferentes áreas do setor de desenvolvimento de software e projetos multilíngue, minha experiência me dá uma visão abrangente de diferentes mercados e culturas tecnológicas.
+Ao longo desse tempo, tive a oportunidade de trabalhar em ambientes multiculturais e multidisciplinares, o que ampliou minha visão sobre tecnologia, negócios e entrega de produto. Tenho facilidade para transitar entre áreas, conectar necessidades e propor soluções que realmente fazem sentido.
 
-Adoro desafios e estou sempre disposto a conversar. 
-
-Sou capaz de contribuir significativamente com equipes e entregar soluções complexas, buscando sempre alinhar as necessidades do negócio com os resultados e entregas das demandas.
+Gosto de colaborar, encarar desafios e contribuir com entregas consistentes e bem alinhadas aos objetivos do time e do negócio.
 
 🔭 Tecnologias e afins: HTML, JS, CSS, PHP, Laravel, Codeigniter, Node.js, React.js, React native,  Mysql, PostgreSQL, Oracle, Git entre outras.
 
