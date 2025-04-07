@@ -1,6 +1,6 @@
 ## 👋 Olá :coffee:
 
-Com uma jornada sólida no desenvolvimento de software, venho atuando como desenvolvedor, analista e líder técnico em projetos diversos — de e-commerces e portais a sistemas corporativos e aplicativos mobile.
+Com uma jornada sólida no desenvolvimento de software, venho atuando como desenvolvedor, analista e líder técnico em projetos diversos de e-commerces e portais a sistemas corporativos e aplicativos mobile.
 
 Ao longo desse tempo, tive a oportunidade de trabalhar em ambientes multiculturais e multidisciplinares, o que ampliou minha visão sobre tecnologia, negócios e entrega de produto. Tenho facilidade para transitar entre áreas, conectar necessidades e propor soluções que realmente fazem sentido.
 
